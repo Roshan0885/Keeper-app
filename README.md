@@ -7,5 +7,5 @@ It allows users to create, edit, and delete notes in a simple and responsive int
 
 ## 🌍 Live Demo
 - Netlify: [Demo Link](https://keeper-appz.netlify.app/)  
-- Vercel: [Demo Link]([https://your-vercel-link.vercel.app](https://keeper-app-gray-psi.vercel.app/))
+- Vercel: [Demo Link](https://keeper-app-gray-psi.vercel.app/)
 
